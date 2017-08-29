@@ -2,7 +2,6 @@
 	S1: Scrap off the tweets from Twitter related to results.
 	S2: Scatter Graph the tweets based on polarity.
 	S3: Keras model to predict the emotions.
-	S4: Check on actual speech using conversion to text using cmu spinhx4.
 
 	Dependencies: 
 		
