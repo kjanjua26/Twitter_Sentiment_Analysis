@@ -26,10 +26,8 @@ from keras.preprocessing.sequence import pad_sequences
 import numpy as np 
 import sklearn 
 import tweepy as tp 
-from textblob import TextBlob
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from keras.utils.np_utils import to_categorical
 
 #Your keys go here.
 consumer_key = ''
