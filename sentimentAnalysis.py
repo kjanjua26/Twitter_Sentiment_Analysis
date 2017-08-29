@@ -13,7 +13,7 @@
 		Keras
 
 	Output: 
-		Election Results and Emotions about Nawaz Sharif
+		Sentiment, 1 for Positive, 0 for Negative. 
 
 '''
 import matplotlib.pyplot as plt 
