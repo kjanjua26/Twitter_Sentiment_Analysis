@@ -2,7 +2,7 @@
 Twitter sentiment analysis using keyword. 
 
 To run: 
-  python sentimentAnalysis.py
+  `python sentimentAnalysis.py`
   
 Note: 
   The .csv file should be in the same folder as the script else you have to change the path. 
